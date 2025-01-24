@@ -27,7 +27,6 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
 
 ## 🚨 Tutorial
 
@@ -81,8 +80,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_ai_summarizer.git
-cd project_ai_summarizer
+git clone https://github.com/SumitRodrigues/AI-Summarizer.git
+cd ai-summarizer
 ```
 
 **Installation**
@@ -259,5 +258,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 Assets used in the project are [here](https://drive.google.com/file/d/11DLzrWADT-GyhuHpWXobhUwqV8peC0ef/view)
 
-## <a name="more">🚀 More</a>
 
