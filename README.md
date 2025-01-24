@@ -248,7 +248,3 @@ Assets used in the project are [here](https://drive.google.com/file/d/11DLzrWADT
 This project is licensed under the MIT License.
 Feel free to use, modify, and distribute this project as per the terms of the license.
 
-<img src="https://img.shields.io/github/v/release/SumitRodrigues/AI-Summarizer?style=for-the-badge" alt="release version" />
-<img src="https://img.shields.io/github/license/SumitRodrigues/AI-Summarizer?style=for-the-badge" alt="license" />
-<img src="https://img.shields.io/github/contributors/SumitRodrigues/AI-Summarizer?style=for-the-badge" alt="contributors" />
-<img src="https://img.shields.io/github/last-commit/SumitRodrigues/AI-Summarizer?style=for-the-badge" alt="last commit" />
